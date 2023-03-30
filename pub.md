@@ -41,3 +41,10 @@ understanding the economic benefits of emerging cooperative issuance of coupons.
 
 ## Working Papers
 - 技术进步与我国城乡产品消费需求结构差异 --- 基于价格效应和共同富裕效应的视角，*The paper>*
+
+
+## Miscellaneous Blogs
+
+
+## Download my Research Statement
+
