@@ -7,7 +7,7 @@ I am currently a master student in Lingnan College, Sun Yat-sen University under
 
 I have been admitted to PhD Programme of Finance in Guanghua School of Management, Peking University and will begin my PhD journey this autumn.
 
-
+![This is me in Thames](/thames.jpg)
 
 
 
