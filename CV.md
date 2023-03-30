@@ -4,7 +4,7 @@ title: "Curriculum Vitae"
 ---
 
 ## Basic Profile
-### Professional Background 
+### Professional Skills
 Firstly, I am good at math. I won the first prize in the 10th National College Students Mathematics Competition
 in 2018 (the only person in Lingnan College) and during the undergraduate period, I have been a member of the
 International Mathematics Program of Lingnan College. So besides compulsory math courses (Advanced Mathematics
