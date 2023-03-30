@@ -37,6 +37,6 @@ I also helped [Professor Rui LU](https://bus.sysu.edu.cn/teacher/LuRui) of Schoo
 bibliometrics to conduct network clustering analysis of systematically important literature.
 
 
-## Download Curriculum Vitae
+## Download My Curriculum Vitae
 [*Download*](/Zhuoran_CV.pdf)
 
