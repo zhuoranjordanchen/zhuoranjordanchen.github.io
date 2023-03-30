@@ -3,8 +3,12 @@ layout: page
 title: "Publications"
 ---
 
-## Summary of My Research
-Regarding my participation in research projects, on the one hand, I have finished four working papers, one of which has been submitted. My first paper fixates on technological progress and consumption. I divide the impact of technological progress on differences between the urban and rural consumption of China into two channels: the price effect affected by the substitution elasticity and the common prosperity effect influenced by the minimum consumption. I find that the relative increase in the technological progress of the urban sector, compared with that of the rural sector, restrains the increase in the proportion of consumption in China’s rural sector through the price effect and the common prosperity effect. My findings help to explain why the proportion of rural consumption in China has declined over the past 40 years, but the rate of decline gradually slowed down. This paper further analyzes the spatiotemporal heterogeneity of these two effects using Mean Observation OLS method and delves into the mechanism behind these two effects through stochastic frontier analysis.
+## Executive Summary 
+My research spans contract finance networks, financial econometrics, digital finance, and household finance. The corresponding papers are published in journals like *Systems Engineering - Theory & Practice*(系统工程理论与实践) and *Sustainability*.
+
+
+
+ My first paper fixates on technological progress and consumption. I divide the impact of technological progress on differences between the urban and rural consumption of China into two channels: the price effect affected by the substitution elasticity and the common prosperity effect influenced by the minimum consumption. I find that the relative increase in the technological progress of the urban sector, compared with that of the rural sector, restrains the increase in the proportion of consumption in China’s rural sector through the price effect and the common prosperity effect. My findings help to explain why the proportion of rural consumption in China has declined over the past 40 years, but the rate of decline gradually slowed down. This paper further analyzes the spatiotemporal heterogeneity of these two effects using Mean Observation OLS method and delves into the mechanism behind these two effects through stochastic frontier analysis.
 
 My second paper focuses on how an exogenous uncertainty shock influences domestic and foreign consumption under different consumer confidence regimes. By specifying a threshold vector autoregression model with the consumer confidence as the regime variable, I find that low consumer confidence will exacerbate consumption both at home and from abroad, but it will benefit the export, compared to high consumer confidence. I then use the forecast variance decomposition to confirm the difference of exogenous shock in the interpretation of the change of endogenous variables under different CCI regimes. Finally, I conduct an international comparison by comparing Chinese results with US results using identical methods and find consumer confidence is much more influential in the US than China.
 
@@ -16,6 +20,23 @@ Besides these official research papers, I also published a lot of blogs on the f
 
 ## Published papers
 - 曾燕, 吴雪枫, 康俊卿, 陈卓然. 电商平台与其入驻商家合作发放优惠券的最优策略及效益. 系统工程理论与实践. 2023, 43(1): 110-134 https://doi.org/10.12011/SETP2022-1650, 
+  - With the development of the digital economy, coupon cooperation through e-commerce
+platforms and their merchants has become increasingly popular. This not only brings complexity
+to the operational decisions of e-commerce platforms and their merchants but also poses challenges
+for regulators and researchers to analyze its economic consequences. This paper constructs
+a theoretical model to study the optimal strategy and economic benefits of e-commerce platforms and their merchants when issuing coupons cooperatively. We further compare the above results
+with the traditional coupon strategy and examine the interaction between coupon strategies and
+advertising promotion strategies. We found that: 1) settled merchants would be more willing to
+participate in the cooperative issuance of coupons with i) the decrease in the platform commissions,
+ii) the cost of merchants when participating in the cooperative issuance of coupons and
+iii) the expansion of the market scale of merchants’ platform sales channels; 2) the merchants’
+incentive to participate in coupon cooperation increases with e-commerce platform’s spending on
+marketing; 3) there exists a complementarity between participating in the cooperative issuance
+of coupons and advertising investment; 4) when settled merchants can rely more on advertising
+and marketing to increase demand, cooperative issuance of coupons will increase the actual price
+paid by consumers and hence hurt consumer welfare. This article provides a new perspective on
+understanding the economic benefits of emerging cooperative issuance of coupons.
+
 - Zhou, Xianbo, and Zhuoran Chen. "The Impact of Uncertainty Shocks to Consumption under Different Confidence Regimes Based on a Stochastic Uncertainty-in-Mean TVAR Model." *Sustainability* 15, no. 4 (2023): 3032.
 
 ## Working Papers
