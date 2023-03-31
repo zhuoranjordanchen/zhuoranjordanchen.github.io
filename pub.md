@@ -22,7 +22,7 @@ My research spans finance networks, financial econometrics, digital finance, and
   - This paper is built on Acemoglu et al (2015) and concerned with the financial crisis and financial network stability. I attempt to find the origin of the financial crisis by modeling a financial network composed of several banks, and studying the nature of such a financial network in various situations. I find that the degree of financial risk contagion strongly depends on the structure of the financial network: if the magnitude of the negative shock is lower than a certain threshold, the closer financial network will show greater stability; however, when the negative shock exceeds the threshold, the dense financial network structure will become a fertile ground for brewing financial turmoil.
 
 ## Miscellaneous Blogs
-Besides the research papers abovementioned, I also published a lot of blogs on the econometric platform [Lianxh](https://lianxh.cn/). My publications include 
+Besides the research papers abovementioned, I also published a lot of blogs on the econometric platform [*Lianxh*](https://lianxh.cn/). My publications include 
 - [Stata: Local regression distribution estimators](https://lianxh.cn/news/d7b4fb62945ae.html), 
 - [Calculations involving the multivariate normal and multivariate *t* distributions with and without truncation](https://lianxh.cn/news/2975aca392bb6.html), 
 - [Practical Beamer tips](https://lianxh.cn/news/b6d483c408311.html), 
