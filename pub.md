@@ -4,7 +4,7 @@ title: "Publications"
 ---
 
 ## Executive Summary 
-My research spans finance networks, financial econometrics, digital finance, and household finance. The corresponding papers are published in journals like *Systems Engineering - Theory & Practice* (系统工程理论与实践) and *Sustainability*.
+My research spans financial networks, financial econometrics, digital finance, and household finance. The corresponding papers are published in journals like *Systems Engineering - Theory & Practice* (系统工程理论与实践) and *Sustainability*.
 
 ## Published papers
 - 曾燕, 吴雪枫, 康俊卿, 陈卓然. 电商平台与其入驻商家合作发放优惠券的最优策略及效益. 系统工程理论与实践. 2023, 43(1): 110-134 https://doi.org/10.12011/SETP2022-1650. [Link](https://sysengi.cjoe.ac.cn/CN/Y2023/V43/I1/110), [PDF](/pubs/coupon.pdf).

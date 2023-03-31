@@ -3,11 +3,12 @@ layout: page
 title: ""
 ---
 
+![This is me in Thames](/thames.jpg)
+
 I am currently a master student in Lingnan College, Sun Yat-sen University under the supervision of [Prof. Xianbo ZHOU](https://lingnan.sysu.edu.cn/faculty/ZhouXianbo) and will graduate in June 2023. I received my Bachelor Degree of Economics in Lingnan College, Sun Yat-sen University in 2021 and went to Warwick Business School, University of Warwick as an exchange student in 2019.
 
 I have been admitted to PhD Programme of Finance in Guanghua School of Management, Peking University and will begin my PhD journey this autumn.
 
-![This is me in Thames](/thames.jpg)
 
 
 
