@@ -1,3 +1,8 @@
+---
+layout: page
+title: ""
+---
+
 ## Miscellaneous Blogs
 Besides the research papers abovementioned, I also published a lot of blogs on the econometric platform [*Lianxh*](https://lianxh.cn/). My publications include: 
 - [Stata: Local regression distribution estimators](https://lianxh.cn/news/d7b4fb62945ae.html), 
