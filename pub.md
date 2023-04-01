@@ -21,23 +21,6 @@ My research spans financial networks, financial econometrics, digital finance, a
 - Financial Crisis and Financial Network Stability---Based on the perspective of risk contagion in the financial system.
   - This paper is built on Acemoglu et al (2015) and concerned with the financial crisis and financial network stability. I attempt to find the origin of the financial crisis by modeling a financial network composed of several banks, and studying the nature of such a financial network in various situations. I find that the degree of financial risk contagion strongly depends on the structure of the financial network: if the magnitude of the negative shock is lower than a certain threshold, the closer financial network will show greater stability; however, when the negative shock exceeds the threshold, the dense financial network structure will become a fertile ground for brewing financial turmoil.
 
-## Miscellaneous Blogs
-Besides the research papers abovementioned, I also published a lot of blogs on the econometric platform [*Lianxh*](https://lianxh.cn/). My publications include 
-- [Stata: Local regression distribution estimators](https://lianxh.cn/news/d7b4fb62945ae.html), 
-- [Calculations involving the multivariate normal and multivariate *t* distributions with and without truncation](https://lianxh.cn/news/2975aca392bb6.html), 
-- [Practical Beamer tips](https://lianxh.cn/news/b6d483c408311.html), 
-- [syntax coloring in Latex](https://lianxh.cn/news/19b8efb4ffbc4.html), 
-- [Comparing tidyverse R to Stata](https://lianxh.cn/news/103922c7bec34.html),
-- [Interpreting logit models](https://lianxh.cn/news/c6d6badebe2a7.html), 
-- [Frames in Stata](https://lianxh.cn/news/ea9890df3b47d.html), 
-- [Stata graphs: Bi-variate maps](https://lianxh.cn/news/523be8e005bca.html), 
-- [Canonical Figures in Causal Inference](https://lianxh.cn/news/0593e9487d93e.html), 
-- [Estimating autoregressive distributed lag and equilibrium correction models using ardl in Stata](https://lianxh.cn/news/a03895152def7.html), 
-- [Assessing Omitted Variable Bias when the Controls are Endogenous](https://lianxh.cn/news/212015484d17c.html), 
-- [regsensitivity: A Stata Package for Regression Sensitivity Analysis](https://lianxh.cn/news/b96bf11d5d81a.html), 
-- [Synthetic DID](https://lianxh.cn/news/6e5904b0743e8.html), 
-- [Assessing Sensitivity to Unconfoundedness: Estimation and Inference](https://lianxh.cn/news/a5930b14f07bb.html), 
-- [Causal Inference Animated Plots](https://lianxh.cn/news/aa3e050bc1398.html).
 
 ## Download my Research Statement
 [*Download*](/pubs/researchStatement.pdf)
