@@ -2,6 +2,11 @@
 layout: page
 title: ""
 ---
+{% if site.show_excerpts %}
+  {% include home.html %}
+{% else %}
+  {% include archive.html title="Posts" %}
+{% endif %}
 
 ## Miscellaneous Blogs
 Besides the research papers abovementioned, I also published a lot of blogs on the econometric platform [*Lianxh*](https://lianxh.cn/). My publications include: 
