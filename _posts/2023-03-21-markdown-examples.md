@@ -302,7 +302,7 @@ p12 = felm(pay_amt~coupon+post+coupon:post+user_age+user_age2+user_gender+pay_am
 
 ### 稳健性检验
 
-作者进行的稳健性检验为检验消费券申请时间的先后对于后续消费者花费是否有影响，作者将处理组均等分为两份 `Early` & `Late`。Early 表示在成功申请时间的前半部门时间，Late 表示在成功申请时间的后半部分时间。
+作者进行的稳健性检验为检验消费券申请时间的先后对于后续消费者花费是否有影响，作者将处理组均等分为两份 `Early` & `Late`。Early 表示在成功申请时间的前半部分时间，Late 表示在成功申请时间的后半部分时间。
 
 ```R
 model1 = felm(pay_amt~couponE+couponL+post+couponE:post+couponL:post+user_age+user_age2+user_gender+pay_amt6m+pay_amt_3up|0|0|user_id,data=d14wave1)
