@@ -130,7 +130,7 @@ ggplot(data=daily_series, mapping=aes(x=dt, y=consum, group=type)) +
   ylab('Amount')
 ```
 
-![image-20230325211500314](D:\Stata17\personal\连享会推文\推文blog\推文30-MS消费券论文复现\image-20230325211500314.png)
+![](https://fig-lianxh.oss-cn-shenzhen.aliyuncs.com/image-20230325211500314.png)
 
 ```R
 daily_series = read.csv('wave2_daily_series.csv')
@@ -172,8 +172,6 @@ table<-stargazer(
   title=" The average effect on spending Wave II full sample results ", align=FALSE,
   omit.stat=c("LL","ser","f")
 )
-
-
 ## PSM Sample
 d_matched = data.table(read.csv('wave2_d_matched.csv'))
 md1 = felm(pay_amt~coupon+post+coupon:post+user_age+user_age2+user_gender+pay_amt_3up+pay_amt6m|0|0|user_id,data = d_matched)
@@ -204,7 +202,7 @@ table<-stargazer(
 
 第二轮的分析和第一轮类似，此处不再赘述。作者通过使用匹配样本进一步将消费细化为五大种类
 
-![image-20230325215955622](D:\Stata17\personal\连享会推文\推文blog\推文30-MS消费券论文复现\image-20230325215955622.png)
+![](https://fig-lianxh.oss-cn-shenzhen.aliyuncs.com/image-20230325215955622.png)
 
 通过对消费进行细化分析，不难看出绝大多数消费者会将消费券用于吃喝等小额消费上面，也就是更多的花费在服务业等受到疫情影响较大的部门。
 
@@ -296,7 +294,7 @@ model1 = felm(pay_amt~couponE+couponL+post+couponE:post+couponL:post+user_age+us
 
 ```
 
-![image-20230326200211777](D:\Stata17\personal\连享会推文\推文blog\推文30-MS消费券论文复现\image-20230326200211777.png)
+![](https://fig-lianxh.oss-cn-shenzhen.aliyuncs.com/image-20230326200211777.png)
 
 上表显示两组处理效应的差别并不大，因此消费券的申请时间并不会对后续消费者花费产生影响。
 
