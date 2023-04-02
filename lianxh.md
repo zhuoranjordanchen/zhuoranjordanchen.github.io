@@ -5,7 +5,7 @@ title: ""
 
 
 ## Miscellaneous Blogs
-Besides the research papers abovementioned, I also published a lot of blogs on the econometric platform [*Lianxh*](https://lianxh.cn/). My publications include: 
+Besides the research papers abovementioned, I also published a lot of blogs on the econometric platform [**Lianxh**](https://lianxh.cn/). My publications include: 
 {% if site.show_excerpts %}
   {% include home.html %}
 {% else %}
