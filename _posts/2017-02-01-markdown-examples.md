@@ -1,14 +1,14 @@
 ---
 title:  "DID顶刊(Management Science)论文复现---消费券刺激政策的效果"
+mathjax: true
 layout: post
 ---
 
-> **作者：陈卓然(中山大学)**
+> **作者：陈卓然(中山大学)** 
 > **邮箱：chenzhr25@mail2.sysu.edu.cn**
 
 > **文献来源**：Qiao Liu, Qiaowei Shen, Zhenghua Li, Shu Chen (2021) Stimulating Consumption at Low Budget: Evidence from a Large-Scale Policy Experiment Amid the COVID-19 Pandemic. *Management Science* 67(12):7291-7307. https://doi.org/10.1287/mnsc.2021.4119
 
-[toc]
 
 ## 论文发现
 
@@ -37,24 +37,23 @@ layout: post
 文章面临的识别难题在于消费券并不是随机分配的，那些获得消费券的人可能和那些没有获得消费券的人之间本身便存在着很多消费行为上的差异。为了缓解类似的自选择问题，作者构建了一个控制组：在优惠券发放的当天，那些尝试去获得消费券但是最终失败的人群。
 
 首先对于第一轮消费券发放，作者选取的处理前窗口期为3月20日至3月26日，处理后窗口期为3月27日至4月2日，其基本的计量模型如下：
-$$
-y_{i t}=  \alpha_0+\alpha_1 \text { Treat }_i+\alpha_2 \text { Post }_t+\alpha_3 \text { Treat }_i \times \text { Post }_t+\gamma X_{i t}+\varepsilon_{i t} (1)
-$$
+
+$$ y_{i t}=  \alpha_0+\alpha_1 \text { Treat }_i+\alpha_2 \text { Post }_t+\alpha_3 \text { Treat }_i \times \text { Post }_t+\gamma X_{i t}+\varepsilon_{i t} (1) $$
+
 被解释变量 $y_{it}$ 代表消费者 $i$ 在时期 $t$ ($t=1$ 表示处理前；$t=2$ 表示处理后) 中的花费，变量 $Treat_i$  是一个指示变量(等于1代表处理组，等于0代表控制组)，系数 $\alpha_1$ 捕捉到处理组和控制组之间在消费上存在的基准差异，$Post_t$ 是一个哑变量(指示是否时期 $t$ 是消费券的兑换期)，系数 $\alpha_2$ 捕捉到时期之间花费存在的时间趋势，$X_{it}$ 表示其他可能影响花费的个体特征，如性别、年龄、2019年9月到2020年2月之间的平均每月花费，以及在3月初 (3月1日到3月19日) 的总花费，**标准误在个体层面进行聚类**。
 
-作者们主要感兴趣的参数为 $\alpha_3$ ，这一参数估计了在消费券的兑换期中，处理组的消费者相较于控制组的消费者的平均过度花费。
+作者们主要感兴趣的参数为 $ \alpha_3 $ ，这一参数估计了在消费券的兑换期中，处理组的消费者相较于控制组的消费者的平均过度花费。
 
 为了评估政策有效性，作者定义了一个效率比:
-$$
-r=\frac{\alpha_3}{\text { amount of subsidy }}
-$$
+
+$$ r=\frac{\alpha_3}{\text { amount of subsidy }} $$
+
 其中分母表示根据实际真正兑换的消费券来计算的平均每一份优惠券大礼包政府的平均补贴额度，比如说因为在第一轮中平均每人兑换3.5张代金券，因而平均补贴额度就是35元。从而效率比 $r$ 便捕捉了1元的政府补贴在拉动额外消费方面究竟多么有效，也就是这一政策的成本--收益比，这一比例非常相似于 MPC (额外的收入中有多大的比例消费者会用于消费)。
 
 作者进一步探究了消费券的跨期影响，具体而言，作者们追踪了一个在第一轮中收到但是在第二轮中没有收到消费券大礼包的人们组成的随机样本，并且作者们将观察期延长到第一轮消费券到期之后的一周(4月3日到4月9日)，相应的控制组是那些在3月27日尝试获得消费券，但是一直到4月9日都没能获得消费券的人们组成的一个随机样本，回归模型如下所示：
-$$
-y_{i t}=  \alpha_0+\alpha_1 \text { Treat }_i+\alpha_2 \text { Post }_t+\alpha_3 \text { Post2 }_t+\alpha_4 \text { Treat }_i 
- \times \text { Post }_t+\alpha_5 \text { Treat }_i \times \text { Post2}_t+\gamma X_{i t}+\varepsilon_{i t} (2)
-$$
+
+$$ y_{i t}=  \alpha_0+\alpha_1 \text { Treat }_i+\alpha_2 \text { Post }_t+\alpha_3 \text { Post2 }_t+\alpha_4 \text { Treat }_i \times \text { Post }_t+\alpha_5 \text { Treat }_i \times \text { Post2}_t+\gamma X_{i t}+\varepsilon_{i t} $$
+
 模型1和模型2中的主要差异在于我们加入一个后兑换期 (4月3日到4月9日): $Post2_t$。
 
 这次我们感兴趣的参数为 $\alpha_5$，这一参数估计了优惠券的滞后效应，如果这一参数是负的，那么意味着相较于控制组而言，处理组会减少他们在消费券到期之后一周的花费。因此优惠券两期的净效应为 $\alpha_4 + \alpha_5$
