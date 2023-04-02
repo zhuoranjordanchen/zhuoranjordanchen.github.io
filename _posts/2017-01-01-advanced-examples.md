@@ -16,6 +16,9 @@ You can enable MathJax by setting `mathjax: true` on a page or globally in the `
 
 $$ e^{i\theta}=\cos(\theta)+i\sin(\theta) $$
 
+$$ y_{i t}=  \alpha_0+\alpha_1 \text { Treat }_i+\alpha_2 \text { Post }_t+\alpha_3 \text { Treat }_i \times \text { Post }_t+\gamma X_{i t}+\varepsilon_{i t} (1) $$
+
+
 The [Euler-Lagrange](https://en.wikipedia.org/wiki/Lagrangian_mechanics) differential equation is the fundamental equation of calculus of variations.
 
 $$ \frac{\mathrm{d}}{\mathrm{d}t} \left ( \frac{\partial L}{\partial \dot{q}} \right ) = \frac{\partial L}{\partial q} $$
