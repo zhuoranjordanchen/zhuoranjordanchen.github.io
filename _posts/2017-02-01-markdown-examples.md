@@ -4,7 +4,7 @@ mathjax: true
 layout: post
 ---
 
-> **作者：陈卓然(中山大学)** 
+> **作者：陈卓然(中山大学)**  
 > **邮箱：chenzhr25@mail2.sysu.edu.cn**
 
 > **文献来源**：Qiao Liu, Qiaowei Shen, Zhenghua Li, Shu Chen (2021) Stimulating Consumption at Low Budget: Evidence from a Large-Scale Policy Experiment Amid the COVID-19 Pandemic. *Management Science* 67(12):7291-7307. https://doi.org/10.1287/mnsc.2021.4119
