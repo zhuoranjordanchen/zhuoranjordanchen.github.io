@@ -10,14 +10,11 @@ categories: media
 
 ## MathJax
 
-You can enable MathJax by setting `mathjax: true` on a page or globally in the `_config.yml`. Some examples:
+You can enable MathJax by setting `mathjax: true` on a page or globally in the `_config.yml`. Some examples: $\alpha$
 
 [Euler's formula](https://en.wikipedia.org/wiki/Euler%27s_formula) relates the  complex exponential function to the trigonometric functions.
 
 $$ e^{i\theta}=\cos(\theta)+i\sin(\theta) $$
-
-$$ y_{i t}=  \alpha_0+\alpha_1 \text { Treat }_i+\alpha_2 \text { Post }_t+\alpha_3 \text { Treat }_i \times \text { Post }_t+\gamma X_{i t}+\varepsilon_{i t} (1) $$
-
 
 The [Euler-Lagrange](https://en.wikipedia.org/wiki/Lagrangian_mechanics) differential equation is the fundamental equation of calculus of variations.
 
