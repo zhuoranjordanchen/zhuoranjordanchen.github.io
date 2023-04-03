@@ -11,6 +11,7 @@ Besides the research papers abovementioned, I also published a lot of blogs on t
 {% else %}
   {% include archive.html title="" %}
 {% endif %}
+- [DID Top journal replication--- Effect of consumption coupon](/2023-03-21-markdown-examples.md)
 - [Stata: Local regression distribution estimators](https://lianxh.cn/news/d7b4fb62945ae.html), 
 - [Calculations involving the multivariate normal and multivariate *t* distributions with and without truncation](https://lianxh.cn/news/2975aca392bb6.html), 
 - [Practical Beamer tips](https://lianxh.cn/news/b6d483c408311.html), 
