@@ -6,7 +6,7 @@ title: ""
 
 ## Miscellaneous Blogs
 Besides the research papers abovementioned, I also published a lot of blogs on the econometric platform [**Lianxh**](https://lianxh.cn/). My publications include: 
-- [DID---Top journal replication---Effect of consumption coupon](/mscoupon.md),
+- [DID---Top journal replication---Effect of consumption coupon](https://www.lianxh.cn/news/5572de969fc47.html),
 - [Stata: Local regression distribution estimators](https://lianxh.cn/news/d7b4fb62945ae.html), 
 - [Calculations involving the multivariate normal and multivariate *t* distributions with and without truncation](https://lianxh.cn/news/2975aca392bb6.html), 
 - [Practical Beamer tips](https://lianxh.cn/news/b6d483c408311.html), 
