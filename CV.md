@@ -12,7 +12,7 @@ title: "Curriculum Vitae"
 3. **Programming**: I am familiar with programming software like Stata, R, MATLAB, Python, typesetting software such as LaTeX and Markdown, and bibliometrics software like VOSviewer,CiteSpace. I used these software to finish several research papers.
 
 ### Research Experience
-I have involved in the research projects of many professors at Lingnan College
+I have involved in the research projects of many professors in Sun Yat-sen University
 since I was an undergraduate student.
 
 1. In 2021, I participated in the National Social Science Fund Major Project “Research on the Basic Role of Consumption Enhancement on Economic Development” (21ZDA036) led by [Professor Xianbo ZHOU](https://lingnan.sysu.edu.cn/faculty/ZhouXianbo) (Master’s Supervisor) of Lingnan College, delving into the relationship between technological progress in urban sector and demands for rural products.
