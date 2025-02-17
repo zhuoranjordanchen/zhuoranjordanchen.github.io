@@ -25,5 +25,5 @@ since I was an undergraduate student.
 
 
 ## Download My Curriculum Vitae
-[*Download*](/zhuoran_CV.pdf)
+[*Download*](/Zhuoran_CV.pdf)
 
